@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f7b1cb2-c2ca-42aa-ac12-86f77a404bd7" name="Default Changelist" comment="第二次提交ds_project项目,包括ds_project01模块">
-      <change afterPath="$PROJECT_DIR$/../git-test-project/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../git-test-project/out/production/git-test-project/com/itheima/git/FirstClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/ds_project01/target/" />
@@ -17,7 +17,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_03_queue/ArrayQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_01_array/Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="91" column="25" lean-forward="true" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,7 +57,8 @@
         <option value="周鹏飞" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/.." value="master" />
@@ -71,8 +91,8 @@
         <option value="$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_03_queue/StackQueue.java" />
         <option value="$PROJECT_DIR$/ds_project01/src/test/java/com/itheima/ds_project01/_03_queueTest/TestStackQueue.java" />
         <option value="$PROJECT_DIR$/ds_project01/src/test/java/com/itheima/ds_project01/_03_queueTest/TestLinkedListQueue.java" />
-        <option value="$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_01_array/Array.java" />
         <option value="$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_01_array/GenericArray.java" />
+        <option value="$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_01_array/Array.java" />
       </list>
     </option>
   </component>
@@ -112,6 +132,74 @@
             <path>
               <item name="ds_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="ds_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ds_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ds_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ds_project01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ds_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ds_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ds_project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ds_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ds_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ds_project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ds_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ds_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ds_project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ds_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ds_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ds_project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ds_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ds_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ds_project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ds_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ds_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ds_project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="ds_project01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ds_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ds_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ds_project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="ds_project01" type="462c0819:PsiDirectoryNode" />
+              <item name="_01_array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -252,7 +340,7 @@
       <workItem from="1581006088426" duration="227000" />
       <workItem from="1581006319219" duration="917000" />
       <workItem from="1581007395770" duration="814000" />
-      <workItem from="1581053899760" duration="65000" />
+      <workItem from="1581053899760" duration="1710000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交ds_project项目,包括ds_project01模块">
       <created>1581005049444</created>
@@ -268,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581006865355</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第二次提交ds_project项目,包括ds_project01模块">
+      <created>1581054345648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581054345648</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -304,7 +399,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47053000" />
+    <option name="totallyTimeSpent" value="48698000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -325,6 +420,7 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.3286119" />
@@ -542,7 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_03_queue/ArrayQueue.java" />
     <entry file="file://$PROJECT_DIR$/ds_project01/src/test/java/com/itheima/ds_project01/_03_queueTest/TestArrayQueue.java" />
     <entry file="file://$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_03_queue/LinkedListQueue.java" />
     <entry file="file://$PROJECT_DIR$/ds_project01/src/test/java/com/itheima/ds_project01/_03_queueTest/TestLinkedListQueue.java" />
@@ -550,7 +645,6 @@
     <entry file="file://$PROJECT_DIR$/ds_project01/src/test/java/com/itheima/ds_project01/_03_queueTest/TestStackQueue.java" />
     <entry file="file://$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_01_array/ArrayDemo.java" />
     <entry file="file://$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_01_array/GenericArray.java" />
-    <entry file="file://$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_01_array/Array.java" />
     <entry file="file://$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_02_list/LinkedListDemo.java" />
     <entry file="file://$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_02_list/ArrayListDemo.java" />
     <entry file="file://$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_04_stack/ArrayStack.java" />
@@ -573,6 +667,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_03_queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds_project01/src/main/java/com/itheima/ds_project01/_01_array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="91" column="25" lean-forward="true" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
